@@ -1,2 +1,6 @@
 hello gais
+<<<<<<< HEAD
 kamu siapa
+=======
+udah bisa
+>>>>>>> d2902602bfcb1b11e90ef10ff8ea282f1f4a0230
